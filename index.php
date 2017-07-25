@@ -371,52 +371,55 @@
             <div id="collapseSponsors" class="panel-collapse collapse"><div class="panel-body">
                 <div class="container">
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_cornellcrest.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_cornellcrest.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_biobasic.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_biobasic.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_corning.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_corning.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_alfaaesar.png>
+                        <img class='img-responsive' src=resources/sponsors/cornellInstituteBiotechnology.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_geneious.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_alfaaesar.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_genscript.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_geneious.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_hardydiagnostics.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_genscript.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_idt.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_hardydiagnostics.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_mathworks.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_idt.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_neb.PNG>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_mathworks.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_snapgene.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_neb.PNG>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_thermofisher.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_snapgene.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/Cornell_vwr.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_thermofisher.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/DNA20-logo-for-iGEM.png>
+                        <img class='img-responsive' src=resources/sponsors/Cornell_vwr.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/KS_Logo_Final.png>
+                        <img class='img-responsive' src=resources/sponsors/DNA20-logo-for-iGEM.png>
                     </div>
                     <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
-                        <img class='img-responsive' src=resources/sponsors/version1.0/mendeley-logo-red.png>
+                        <img class='img-responsive' src=resources/sponsors/KS_Logo_Final.png>
+                    </div>
+                    <div class='col-md-3 col-lg-3 col-sm-3 col-xs-3'>
+                        <img class='img-responsive' src=resources/sponsors/mendeley-logo-red.png>
                     </div>
                 </div>
                 <div class="container col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2" style="margin-top: 30px; min-wdth: 500px;">
