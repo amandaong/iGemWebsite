@@ -308,6 +308,26 @@ a.anchor {
 	border:thin solid #607d8b;
 }
 
+/***----------------------------------------RECRUITING----------------------------------------***/
+.list {
+  padding-left: 20px;
+}
+
+.list li {
+  margin-left: 20px;
+}
+
+.recruiting-body {
+  margin-bottom: 40px;
+}
+
+.recruiting-body {
+  font-size: 1.2em;
+}
+
+.title {
+  padding-left: 15px;
+}
 
 /***----------------------------------------SPONSORS----------------------------------------***/
 .panel-heading .accordion-toggle:after {
